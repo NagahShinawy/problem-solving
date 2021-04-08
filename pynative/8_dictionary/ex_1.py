@@ -1,6 +1,6 @@
 
 """
-Exercise 1: Below are the two lists convert it into the dictionary
+Exercise 1: Below are the two lists convert it into the 8_dictionary
 keys = ['Ten', 'Twenty', 'Thirty']
 values = [10, 20, 30]
 Expected output:

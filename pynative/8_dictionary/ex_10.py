@@ -1,5 +1,5 @@
 """
-Exercise 10: Change Brad’s salary to 8500 from a given Python dictionary
+Exercise 10: Change Brad’s salary to 8500 from a given Python 8_dictionary
 sampleDict = {
      'emp1': {'name': 'Jhon', 'salary': 7500},
      'emp2': {'name': 'Emma', 'salary': 8000},

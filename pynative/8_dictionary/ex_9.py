@@ -1,7 +1,7 @@
 
 
 """
-Exercise 9: Get the key of a minimum value from the following dictionary
+Exercise 9: Get the key of a minimum value from the following 8_dictionary
 sampleDict = {
   'Physics': 82,
   'Math': 65,

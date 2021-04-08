@@ -1,7 +1,7 @@
 
 
 """
-Exercise 4: Initialize dictionary with default values
+Exercise 4: Initialize 8_dictionary with default values
 Given:
 
 employees = ['Kelly', 'Emma', 'John']

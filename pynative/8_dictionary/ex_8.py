@@ -1,7 +1,7 @@
 
 
 """
-Exercise 8: Rename key city to location in the following dictionary
+Exercise 8: Rename key city to location in the following 8_dictionary
 sampleDict = {
   "name": "Kelly",
   "age":25,

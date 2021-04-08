@@ -4,29 +4,29 @@ Python Dictionary Exercise with Solutions
 Updated on: March 9, 2021 | Python Tags: Basics Python Python Exercises
 
 TweetF  sharein  shareP  Pin
-This Python dictionary exercise aims to help Python developers to learn and practice dictionary operations. Here I am providing 10 dictionary programs to help you in brushing coding skills. All questions are tested on Python 3.
+This Python 8_dictionary exercise aims to help Python developers to learn and practice 8_dictionary operations. Here I am providing 10 8_dictionary programs to help you in brushing coding skills. All questions are tested on Python 3.
 
-A dictionary object is mutable in Python. Python dictionary contains the data in the form of key-value pairs. Each key is separated from its value by a colon (:). Python dictionary is the most widely used data structure, and a good understanding of dictionary operations is necessary.
+A 8_dictionary object is mutable in Python. Python 8_dictionary contains the data in the form of key-value pairs. Each key is separated from its value by a colon (:). Python 8_dictionary is the most widely used data structure, and a good understanding of 8_dictionary operations is necessary.
 
 Also Read:
 
 Python Dictionaries
 Python Dictionary Quiz
 
-This Python dictionary exercise includes the followings: –
+This Python 8_dictionary exercise includes the followings: –
 
-It contains 10 dictionary questions and solutions provided for each question.
-Practice different dictionary assignments, programs, and challenges.
+It contains 10 8_dictionary questions and solutions provided for each question.
+Practice different 8_dictionary assignments, programs, and challenges.
 It covers questions on the following topics:
 
-Python dictionary operations and manipulations
-Python dictionary functions
-Python dictionary comprehension
-When you complete each question, you get more familiar with the Python dictionary. Let us know if you have any alternative solutions. It will help other developers.
+Python 8_dictionary operations and manipulations
+Python 8_dictionary functions
+Python 8_dictionary comprehension
+When you complete each question, you get more familiar with the Python 8_dictionary. Let us know if you have any alternative solutions. It will help other developers.
 
 Use Online Code Editor to solve exercise questions.
 
-Exercise 1: Below are the two lists convert it into the dictionary
+Exercise 1: Below are the two lists convert it into the 8_dictionary
 keys = ['Ten', 'Twenty', 'Thirty']
 values = [10, 20, 30]
 Expected output:
@@ -82,7 +82,7 @@ Expected output:
 80
 
 Show Solution
-Exercise 4: Initialize dictionary with default values
+Exercise 4: Initialize 8_dictionary with default values
 Given:
 
 employees = ['Kelly', 'Emma', 'John']
@@ -97,8 +97,8 @@ print(resDict)
 # Individual data
 print(resDict["Kelly"])
  Run Online
-Exercise 5: Create a new dictionary by extracting the following keys from a below dictionary
-Given dictionary:
+Exercise 5: Create a new 8_dictionary by extracting the following keys from a below 8_dictionary
+Given 8_dictionary:
 
 sampleDict = {
   "name": "Kelly",

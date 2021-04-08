@@ -1,5 +1,5 @@
 """
-Exercise 9: Given a dictionary get all values from the dictionary and add them to a list but don’t add duplicates
+Exercise 9: Given a 8_dictionary get all values from the 8_dictionary and add them to a list but don’t add duplicates
 Given:
 
 speed ={'jan':47, 'feb':52, 'march':47, 'April':44, 'May':52, 'June':53, 'july':54, 'Aug':44, 'Sept':54}

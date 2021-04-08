@@ -1,7 +1,7 @@
 
 
 """
-Exercise 7: Check if a value 200 exists in a dictionary
+Exercise 7: Check if a value 200 exists in a 8_dictionary
 sampleDict = {'a': 100, 'b': 200, 'c': 300}
 Expected output:
 

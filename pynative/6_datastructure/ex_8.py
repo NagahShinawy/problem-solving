@@ -1,5 +1,5 @@
 """
-Exercise 8: Iterate a given list and Check if a given element already exists in a dictionary as a key’s value if not delete it from the list
+Exercise 8: Iterate a given list and Check if a given element already exists in a 8_dictionary as a key’s value if not delete it from the list
 Given:
 
 rollNumber = [47, 64, 69, 37, 76, 83, 95, 97]
